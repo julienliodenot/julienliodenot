@@ -39,21 +39,21 @@ Je conçois des systèmes data clairs et exploitables pour que les équipes gagn
 ## Projets vitrine
 
 ### AutoFact - OCR + IA + pipeline end-to-end
-Repository : [AutoFact](https://github.com/julienliodenot/AutoFact)
+Repository : [AutoFact](https://github.com/julienliodenot/AutoFact-ocr-llm-pipeline)
 
 - Problème traité : extraction facture manuelle chronophage
 - Solution : ingestion + OCR + structuration JSON + historisation
 - Stack : Python, n8n, PostgreSQL, Docker, Mistral API
 
 ### Prestashop - Pipeline segmentation clients
-Repository : [prestashop-Pipeline segmentation client](https://github.com/julienliodenot/prestashop-Pipeline%20segmentation%20client)
+Repository : [prestashop-Pipeline segmentation client](https://github.com/julienliodenot/prestashop-customer-segmentation-pipeline)
 
 - Problème traité : manque de lisibilité sur les segments clients
 - Solution : API -> base -> transformation -> dashboard décisionnel
 - Stack : Python, SQLite, KNIME, Power BI
 
 ### Portfolio BI (archive)
-Repository : [Portfolio-Business-Intelligence-Analyst](https://github.com/julienliodenot/Portfolio-Business-Intelligence-Analyst)
+Repository : [Portfolio-Business-Intelligence-Analyst](https://github.com/julienliodenot/bi-data-training-portfolio-archive)
 
 - Historique de progression sur SQL, Python, BI et gouvernance
 

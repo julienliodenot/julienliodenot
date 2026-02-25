@@ -9,6 +9,7 @@ Je conçois des systèmes data clairs et exploitables pour que les équipes gagn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Microsoft Certified: Power BI Data Analyst Associate](https://img.shields.io/badge/Microsoft%20Certified-PL--300-blue?style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/fr-fr/julienliodenot-8039/7C21BD73ABEDA2D1?sharingId=3946DE19BFB1E12)
 ![KNIME](https://img.shields.io/badge/KNIME-FDCC02?style=for-the-badge&logo=knime&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,6 +57,11 @@ Repository : [prestashop-Pipeline segmentation client](https://github.com/julien
 Repository : [Portfolio-Business-Intelligence-Analyst](https://github.com/julienliodenot/bi-data-training-portfolio-archive)
 
 - Historique de progression sur SQL, Python, BI et gouvernance
+
+## Certifications
+
+- Certifié [Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/fr-fr/julienliodenot-8039/7C21BD73ABEDA2D1?sharingId=3946DE19BFB1E12)
+-  KNIME Analytics Platform – L1 Certified
 
 ## Cadre d'intervention
 

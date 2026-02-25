@@ -1,25 +1,71 @@
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Knime](https://img.shields.io/badge/KNIME-FDCC02?style=for-the-badge&logo=knime&logoColor=black)
+﻿# Julien Liodenot
+
+## Freelance Data Analyst & Data Engineer
+
+Je conçois des systèmes data clairs et exploitables pour que les équipes gagnent du temps, fiabilisent leurs KPI et prennent de meilleures décisions.
+
+[Prendre contact sur LinkedIn](https://www.linkedin.com/in/julien-liodenot/) | [Écrire par email](mailto:julien.liodenot@dataexec.fr)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![KNIME](https://img.shields.io/badge/KNIME-FDCC02?style=for-the-badge&logo=knime&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
-**julienliodenot/julienliodenot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ce que j'apporte en mission
 
-Here are some ideas to get you started:
+- Vision claire de l'existant : flux, qualité de données, points de rupture
+- Système cible simple et robuste : pipeline + modèle + dashboard
+- Mise en production pragmatique : documentation, passation, autonomie équipe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Missions types
+
+### 1) Audit data et feuille de route
+- Analyse des sources et du niveau de fiabilité
+- Cartographie des KPI et écarts métier
+- Plan d'actions priorisé sur 30/60/90 jours
+
+### 2) Pipeline ETL/ELT et modélisation
+- Extraction API/fichiers/bases
+- Transformations métier et datamarts
+- Standardisation des contrôles qualité
+
+### 3) Pilotage BI
+- Dashboard direction/métier sous Power BI
+- Définition d'indicateurs actionnables
+- Automatisation des mises à jour
+
+## Projets vitrine
+
+### AutoFact - OCR + IA + pipeline end-to-end
+Repository : [AutoFact](https://github.com/julienliodenot/AutoFact)
+
+- Problème traité : extraction facture manuelle chronophage
+- Solution : ingestion + OCR + structuration JSON + historisation
+- Stack : Python, n8n, PostgreSQL, Docker, Mistral API
+
+### Prestashop - Pipeline segmentation clients
+Repository : [prestashop-Pipeline segmentation client](https://github.com/julienliodenot/prestashop-Pipeline%20segmentation%20client)
+
+- Problème traité : manque de lisibilité sur les segments clients
+- Solution : API -> base -> transformation -> dashboard décisionnel
+- Stack : Python, SQLite, KNIME, Power BI
+
+### Portfolio BI (archive)
+Repository : [Portfolio-Business-Intelligence-Analyst](https://github.com/julienliodenot/Portfolio-Business-Intelligence-Analyst)
+
+- Historique de progression sur SQL, Python, BI et gouvernance
+
+## Cadre d'intervention
+
+- Format : freelance
+- Zone : France / remote
+- Cibles : PME, e-commerce, fonctions opérations
+
+## Contact
+
+- LinkedIn : https://www.linkedin.com/in/julien-liodenot/
+- Email : julien.liodenot@dataexec.fr
+
+Disponible pour échanger sur vos enjeux data et proposer une feuille de route priorisée adaptée à votre contexte.

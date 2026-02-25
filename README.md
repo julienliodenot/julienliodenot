@@ -57,7 +57,16 @@ Repository : [prestashop-Pipeline segmentation client](https://github.com/julien
 ### Portfolio BI (archive)
 Repository : [Portfolio-Business-Intelligence-Analyst](https://github.com/julienliodenot/bi-data-training-portfolio-archive)
 
-- Historique de progression sur SQL, Python, BI et gouvernance
+## Sélection de projets de formation (mis en avant)
+Source : [bi-data-training-portfolio-archive](https://github.com/julienliodenot/bi-data-training-portfolio-archive)
+
+- [Projet 8 - Analyse de données en Python (Immobilier Paris)](https://github.com/julienliodenot/bi-data-training-portfolio-archive/tree/main/Projet%2008%20%E2%80%93%20Analyse%20de%20donn%C3%A9es%20en%20Python%20(Immobilier%20Paris))
+  - Analyse prédictive, régression, clustering, interprétation métier
+- [Projet 9 - Améliorez les performances de l'entreprise](https://github.com/julienliodenot/bi-data-training-portfolio-archive/tree/main/Projet%2009%20%E2%80%93%20Am%C3%A9liorez%20les%20performances%20de%20l'entreprise)
+  - Pipeline KNIME + pilotage Power BI orienté performance commerciale
+- [Projet 10 - Analysez une demande business et identifiez les segments de marché](https://github.com/julienliodenot/bi-data-training-portfolio-archive/tree/main/Projet%2010%20%E2%80%93%20Analysez%20une%20demande%20business%20identifiez%20les%20segments%20du%20march%C3%A9%20les%20plus%20pertinents%20pour%20votre%20client)
+  - Analyse stratégique (SWOT/PESTEL) + recommandations data-driven
+
 
 ## Certifications
 

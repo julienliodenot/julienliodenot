@@ -1,6 +1,6 @@
 ﻿# Julien Liodenot
 
-## Freelance Data Analyst & Data Engineer
+## Freelance Data Analyst & Analytics Engineer
 
 Je conçois des systèmes data clairs et exploitables pour que les équipes gagnent du temps, fiabilisent leurs KPI et prennent de meilleures décisions.
 
